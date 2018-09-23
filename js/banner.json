@@ -1,0 +1,102 @@
+
+[
+  {
+    "title": "华为运动蓝牙耳机",
+    "stitle": "华为运动蓝牙耳机",
+    "price": 499,
+    "time": "2017-03-15",
+    "hot": 198,
+    "img": "http://sr3.pplive.cn/cms/34/91/76331270e1a34411ab9bf750d2af8abd.jpg.webp"
+  },
+  {
+    "title": "华为碎屏服务宝",
+    "stitle": "华为碎屏服务宝",
+    "price": 129,
+    "time": "2017-02-08",
+    "hot": 25,
+    "img": "http://sr1.pplive.cn/cms/13/88/f681a1fe40c7ae4f9192b14993402e31.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品三",
+    "stitle": "华为最牛逼的产品三",
+    "price": 895,
+    "time": "2017-01-25",
+    "hot": 568,
+    "img": "http://sr3.pplive.cn/cms/37/55/f656bc3ca6d9d93388d6385253fe35b7.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品四",
+    "stitle": "华为最牛逼的产品四",
+    "price": 1895,
+    "time": "2016-12-30",
+    "hot": 20000,
+    "img": "http://sr4.pplive.cn/cms/23/06/8d0cd32c7fe00fa966798c8207d24e0d.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品五",
+    "stitle": "华为最牛逼的产品五",
+    "price": 3587,
+    "time": "2016-01-30",
+    "hot": 1032654,
+    "img": "http://sr3.pplive.cn/cms/33/21/d03e4002953b33fea9469037aba0a47f.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品六",
+    "stitle": "华为最牛逼的产品六",
+    "price": 992,
+    "time": "2018-01-01",
+    "hot": 1,
+    "img": "http://sr1.pplive.cn/cms/18/10/46991c893765a57b221328628eedf0d7.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品七",
+    "stitle": "华为最牛逼的产品七",
+    "price": 564,
+    "time": "2017-02-19",
+    "hot": 400,
+    "img": "http://sr4.pplive.cn/cms/23/06/8d0cd32c7fe00fa966798c8207d24e0d.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品八",
+    "stitle": "华为最牛逼的产品八",
+    "price": 420,
+    "time": "2017-01-25",
+    "hot": 240,
+    "img": "img/8.jpg"
+  },
+
+  {
+    "title": "华为最牛逼的产品十",
+    "stitle": "华为最牛逼的产品十",
+    "price": 13,
+    "time": "2014-01-05",
+    "hot": 12345678,
+    "img": "http://sr4.pplive.cn/cms/10/68/97bd4d3f1b286ed50ea680244071457b.jpg.webp"
+  },
+  
+  {
+    "title": "华为最牛逼的产品十二",
+    "stitle": "华为最牛逼的产品十二",
+    "price": 212,
+    "time": "2014-01-11",
+    "hot": 12345678,
+    "img": "http://sr3.pplive.cn/cms/34/91/76331270e1a34411ab9bf750d2af8abd.jpg.webp"
+  },
+  {
+    "title": "华为最牛逼的产品十三",
+    "stitle": "华为最牛逼的产品十三",
+    "price": 112,
+    "time": "2014-01-00",
+    "hot": 1234578,
+    "img": "http://sr3.pplive.cn/cms/19/01/1271518aaf77f6e00c918f20264c7fe3.jpg.webp"
+  },
+
+  {
+    "title": "华为最牛逼的产品十四",
+    "stitle": "华为最牛逼的产品十四",
+    "price": 100,
+    "time": "2013-08-01",
+    "hot": 12345,
+    "img": "http://sr2.pplive.cn/cms/13/09/f337955b064e0da22223444f13824e51.jpg.webp"
+  }
+]

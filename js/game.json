@@ -1,11 +1,4 @@
 {
-    "apiVersion": "1.0",
-    "lastupdate": 1537620025,
-    "data": {
-        "totalItems": 79,
-        "offset": 0,
-        "limit": 10,
-        "sort": "views",
         "items": [
             {
                 "preview": "http://img2.plures.net/live/screenshots/919699/0be9/84c7/c3bb/d164/4531/3370/e306/6095_1537619964.jpg?imageView2/1/w/320/h/180",
@@ -429,4 +422,3 @@
             }
         ]
     }
-}
