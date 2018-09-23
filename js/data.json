@@ -1,0 +1,425 @@
+{
+
+        "items": [
+            {
+                "preview": "http://img2.plures.net/c5db/b78c/9871/15d6/83a6/c1f7/e92b/0e13.jpg",
+                "preview2": "http://img2.plures.net/6837ac13-d898-4f6a-a571-214994161082",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 2110243,
+                    "name": "会飞的小菠萝",
+                    "avatar": "http://pic.plures.net/zsa2/spot/405e37ffe429c1b439d4b1cd81f7d957.jpg",
+                    "grade": 24,
+                    "url": "http://live.pptv.com/room/m199599?from=pptv",
+                    "h5": "http://live.pptv.com/room/m199599?from=pptv",
+                    "status": "新姿势直播，Get！",
+                    "broadcast_begin": 1537452410000,
+                    "broadcast_duration": 2892,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "m199599",
+                    "flowers": 156038,
+                    "followers": 238187,
+                    "glamours": 80903686,
+                    "tag": "冠名大作战",
+                    "vid": 0,
+                    "weight": 1025913791,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "156695"
+            },
+            {
+                "preview": "http://img2.plures.net/26f1c4cc-f94e-4a3b-bdfc-58ce0015803e",
+                "preview2": "http://img2.plures.net/19599e25-4754-4247-889b-5da78ffc667b",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 609622,
+                    "name": "综皇_宣宣",
+                    "avatar": "http://pic.plures.net/r5kb/keef/b2719acb6907bccb2bd598bdc567af1c.jpg",
+                    "grade": 26,
+                    "url": "http://live.pptv.com/room/136339?from=pptv",
+                    "h5": "http://live.pptv.com/room/136339?from=pptv",
+                    "status": "我想你了",
+                    "broadcast_begin": 1537448891000,
+                    "broadcast_duration": 6411,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 4,
+                    "belle": 0,
+                    "domain": "136339",
+                    "flowers": 1877009,
+                    "followers": 279969,
+                    "glamours": 139073538,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 1010052302,
+                    "live_source": 2,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "121000"
+            },
+            {
+                "preview": "http://img2.plures.net/4ccb/060d/305f/9dc7/ead5/3a9e/f8d2/c160.jpg",
+                "preview2": "http://img2.plures.net/1052/83dd/7b04/949d/ceb4/8c82/3700/97e2.jpg",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 779525,
+                    "name": "月宝是最受宠的崽_",
+                    "avatar": "http://pic.plures.net/wwhx/jiwm/efadfc46ec11ccd0aa5ae54ebb25881b.jpg",
+                    "grade": 23,
+                    "url": "http://live.pptv.com/room/m186308?from=pptv",
+                    "h5": "http://live.pptv.com/room/m186308?from=pptv",
+                    "status": "一只废宝",
+                    "broadcast_begin": 1537450970000,
+                    "broadcast_duration": 4332,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "m186308",
+                    "flowers": 211034,
+                    "followers": 75784,
+                    "glamours": 69662254,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 1215056887,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "120288"
+            },
+            {
+                "preview": "http://img2.plures.net/7897a691-36b9-4a1b-85f2-ac6f73e17487",
+                "preview2": "http://img2.plures.net/eba12896-c3e6-451e-8b36-8fc30023a771",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 2088001,
+                    "name": "泡泡糖找不到了",
+                    "avatar": "http://pic.plures.net/1uhx/imbu/5c7111d9b2619aecd7edf3bbeb815b69.jpg",
+                    "grade": 21,
+                    "url": "http://live.pptv.com/room/t193802?from=pptv",
+                    "h5": "http://live.pptv.com/room/t193802?from=pptv",
+                    "status": "今天 天气真好emmm",
+                    "broadcast_begin": 1537446032000,
+                    "broadcast_duration": 9270,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "t193802",
+                    "flowers": 78118,
+                    "followers": 13579,
+                    "glamours": 45019226,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 1009414860,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "110353"
+            },
+            {
+                "preview": "http://img2.plures.net/b8ecc546-ca07-4fa9-926d-9e9f900890a9",
+                "preview2": "http://img2.plures.net/8457f39d-75ce-4995-a140-89d1818da5e2",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 2039583,
+                    "name": "小颖影ying",
+                    "avatar": "http://img2.plures.net/users/avatar/062/601/139/62601139/7a15d12762b9bd39fa358f8627f9e8eb.jpg",
+                    "grade": 24,
+                    "url": "http://live.pptv.com/room/m192805?from=pptv",
+                    "h5": "http://live.pptv.com/room/m192805?from=pptv",
+                    "status": "我就是那一把火",
+                    "broadcast_begin": 1537454140000,
+                    "broadcast_duration": 1162,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "m192805",
+                    "flowers": 92513,
+                    "followers": 39295,
+                    "glamours": 95260087,
+                    "tag": "校园女神",
+                    "vid": 0,
+                    "weight": 1024660407,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "94735"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/513702/dd98/4212/ca20/6f66/05dc/b351/a9cb/6fdd_1537455039.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/513702/dd98/4212/ca20/6f66/05dc/b351/a9cb/6fdd_1537455039.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 5,
+                        "id": 5,
+                        "Name": "地下城与勇士",
+                        "name": "地下城与勇士",
+                        "tag": "dnf"
+                    }
+                ],
+                "channel": {
+                    "id": 513702,
+                    "name": "╰ 陌小伊家De陌伊",
+                    "avatar": "http://pic.plures.net/ypbg/caxo/c308c6baddb80d2fee94d14eb78d6434.jpg",
+                    "grade": 27,
+                    "url": "http://live.pptv.com/room/103620?from=pptv",
+                    "h5": "http://live.pptv.com/room/103620?from=pptv",
+                    "status": "陌小伊：这也太真实了吧！",
+                    "broadcast_begin": 1537453586000,
+                    "broadcast_duration": 1716,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "103620",
+                    "flowers": 1139340,
+                    "followers": 234620,
+                    "glamours": 198500549,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 8,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "86353"
+            },
+            {
+                "preview": "http://img2.plures.net/887f2f16-690e-4d8b-8f22-326f8c09238b",
+                "preview2": "http://img2.plures.net/7c0d4a19-4a59-45b0-ad3b-193282323041",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 2294342,
+                    "name": "伽马丶酒窝",
+                    "avatar": "http://pic.plures.net/sykf/othn/89dcd0d460dd6ccac8d3da278195f1f2.jpg",
+                    "grade": 16,
+                    "url": "http://live.pptv.com/room/m185811?from=pptv",
+                    "h5": "http://live.pptv.com/room/m185811?from=pptv",
+                    "status": "亮点到处有，这里特别多",
+                    "broadcast_begin": 1537449139000,
+                    "broadcast_duration": 6163,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "m185811",
+                    "flowers": 20474,
+                    "followers": 2682,
+                    "glamours": 9995638,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 1002625751,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "84154"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/730666/3021/10ff/1771/8b26/2790/b4cc/e14c/7baf_1537455253.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/730666/3021/10ff/1771/8b26/2790/b4cc/e14c/7baf_1537455253.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 5,
+                        "id": 5,
+                        "Name": "地下城与勇士",
+                        "name": "地下城与勇士",
+                        "tag": "dnf"
+                    }
+                ],
+                "channel": {
+                    "id": 730666,
+                    "name": "嫡公主太笨",
+                    "avatar": "http://pic.plures.net/hanu/2ieg/451007a25a8fd3ed05102ae8d7ef4537.jpg",
+                    "grade": 26,
+                    "url": "http://live.pptv.com/room/103639?from=pptv",
+                    "h5": "http://live.pptv.com/room/103639?from=pptv",
+                    "status": "想大家了",
+                    "broadcast_begin": 1537445228000,
+                    "broadcast_duration": 10074,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "103639",
+                    "flowers": 1282805,
+                    "followers": 143197,
+                    "glamours": 129738778,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "78482"
+            },
+            {
+                "preview": "http://img2.plures.net/242e/794c/a75c/0071/293b/5c78/32f7/66c0.png",
+                "preview2": "http://img2.plures.net/d0a65385-53c5-49f3-953b-afed0c878165",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 119,
+                        "id": 119,
+                        "Name": "随拍",
+                        "name": "随拍",
+                        "tag": "hwzb"
+                    }
+                ],
+                "channel": {
+                    "id": 2103254,
+                    "name": "宠爱-猪猪",
+                    "avatar": "http://pic.plures.net/qlme/meir/5ae34447144e7577f4fb9738c5e612c9.jpg",
+                    "grade": 17,
+                    "url": "http://live.pptv.com/room/y198822?from=pptv",
+                    "h5": "http://live.pptv.com/room/y198822?from=pptv",
+                    "status": "一念之间",
+                    "broadcast_begin": 1537448221000,
+                    "broadcast_duration": 7081,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "y198822",
+                    "flowers": 37358,
+                    "followers": 4122,
+                    "glamours": 14085286,
+                    "tag": "冠名大作战",
+                    "vid": 0,
+                    "weight": 1013702282,
+                    "live_source": 1,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "60112"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2376023/3d52/3393/bb53/3a06/a136/3882/e2b3/44b5_1537455212.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2376023/3d52/3393/bb53/3a06/a136/3882/e2b3/44b5_1537455212.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 90,
+                        "id": 90,
+                        "Name": "主机游戏（综合）",
+                        "name": "主机游戏（综合）",
+                        "tag": "console"
+                    }
+                ],
+                "channel": {
+                    "id": 2376023,
+                    "name": "忆若萱",
+                    "avatar": "http://r.plures.net/no-avatar.jpg",
+                    "grade": 0,
+                    "url": "http://live.pptv.com/room/2654974?from=pptv",
+                    "h5": "http://live.pptv.com/room/2654974?from=pptv",
+                    "status": "新人开播",
+                    "broadcast_begin": 1537451173000,
+                    "broadcast_duration": 4129,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2654974",
+                    "flowers": 0,
+                    "followers": 1,
+                    "glamours": 0,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "58934"
+            }
+        ]
+    }

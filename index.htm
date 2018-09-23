@@ -1,16 +1,465 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>首页</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/luo.css">
 </head>
+
 <body>
-    <!-- 头部   -->
+    <div class="head clear">
+        <div class="left logo"></div>
+        <div class="search"></div>
+        <div class="right"></div>
+    </div>
+    <div class="main">
+        <!-- 秀场直播 -->
+        <div class="item">
+            <div class="item-tit">
+                <h2 class="item-tit-b"><a href=''>秀场直播</a></h2>
+                <div class="item-tit-tab" id='show1'>
+                    <a href="javasript:null" title="女神">女神</a>
+                    <i>/</i>
+                    <a href="javasript:null" title="随拍">随拍</a>
+                </div>
+            </div>
+            <div class="item-at clear">
+                <div class="left big-pic" id="big-pic">
+                    <!-- <a href="">
+                        <dl>
+                            <dt><img src="http://img2.plures.net/26f1c4cc-f94e-4a3b-bdfc-58ce0015803e">
+                                <p>综皇_宣宣</p>
+                            </dt>
+                            <dd>
+                                <p>无聊，随便播个</p><span class="view">12.09万</span>
+                            </dd>
+                        </dl>
+                    </a> -->
+                </div>
+                <ul class="group-pic" id="girl">
+                   <!-- <li>
+                        <a href="">
+                            <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                    alt=""><span class="img-up-t">兰妮呢问号__</span></p>
+                            <div class="item-info">
+                                <dl>
+                                    <dt>炸弹周星了解一下</dt>
+                                    <dd><span class="left">12.9万</span><span class="right">随拍</span></dd>
+                                </dl>
+                            </div>
+                        </a>
+                    </li>
+                   -->
+                    
+                </ul>
+            </div>
+        </div>
+        <!-- 电竞直播 -->
+        <div class="item mt40 clear">
+            <div class="item-tit">
+                <h2 class="item-tit-b game"><a href=''>电竞直播</a></h2>
+                <div class="item-tit-tab" class="show2">
+                    <a href="javasript:null">竞技游戏</a>
+                    <i>/</i>
+                    <a href="javasript:null">热门手游</a>
+                </div>
+            </div>
+            <div class="item-at clear">
+                <div class="left big-pic" id="big-pic-game">
+                    <!-- <a href="">
+                        <dl>
+                            <dt><img src="http://img2.plures.net/live/screenshots/2314912/b453/13ee/3bcc/9f2b/ba3d/6c5e/0da9/f4b0_1537432311.jpg?imageView2/1/w/320/h/180">
+                                <p>星空丶叼哥剑圣</p>
+                            </dt>
+                            <dd>
+                                <p>无聊，随便播个</p><span class="view">12.09万</span>
+                            </dd>
+                        </dl>
+                    </a> -->
+                </div>
+                <ul class="group-pic" id="game">
+                    <!-- <li>
+                        <a href="">
+                            <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                    alt=""><span class="img-up-t">兰妮呢问号__</span></p>
+                            <div class="item-info">
+                                <dl>
+                                    <dt>炸弹周星了解一下</dt>
+                                    <dd><span class="left">12.9万</span><span class="right">随拍</span></dd>
+                                </dl>
+                            </div>
+                        </a>
+                    </li> -->
+               
+                   
+                </ul>
+   
+            </div>
+        </div>
+        <!-- 综艺 -->
+        <div class="item mt40 clear">
+            <div class="left">
+                <div class="item-tit">
+                    <h2 class="item-tit-b recr"><a href=''>综艺</a></h2>
+                    <div class="item-tit-tab">
+                        <a href="javasript:null">强档热播</a>
+                        <i>/</i>
+                        <a href="javasript:null">大陆综艺</a>
+                        <a href="javasript:null">台湾综艺</a>
+                    </div>
+                    <div class="item-tit-right right">
+                        <a href="">金牌调解</a>·<a href="">非常完美</a>·<a href="">非你莫属</a>·<a href="">更多 &gt;</a>
+                    </div>
+                </div>
+                <div class="item-at clear">
+                    <div class="left plus-pic">
+                        <a href="">
+                            <img src="http://sr4.pplive.cn/cms/21/55/8f3efc554780101519e9c3060f33cf07.jpg">
+                            <dl>
+                                <dt>女人我最大</dt>
+                                <dd>未脱单的几大奇葩理由</dd>
+                            </dl>
+                        </a>
+                    </div>
+                    <div class="left two-row">
+                        <ul class="group-pic">
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                         
+                        </ul>
+                        <ul class="group-pic">
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                            alt=""></p>
+                                    <div class="item-info">
+                                        <dl>
+                                            <dt>双胞胎落泪争夺母爱</dt>
+                                            <dd>金牌调解</dd>
+                                        </dl>
+                                    </div>
+                                </a>
+                            </li>
+                         
+                        </ul>
+                      
+                    </div>
+                </div>
+            </div>
+            <div class="right side">
+                <div class="side-tit"><a href=""><strong>排行榜</strong></a><a href="">更多&gt;</a></div>
+                <div class="sidebg">
+                    <div class="side-one">
+                        <a href="">
+                            <img src="img/1 (1).jpg">
+                            <p><span>1</span><dfn>非常完美</dfn></p>
+                        </a>
+                    </div>
+                    <ul class="side-list">
+                        <li><span>2</span><a href="">爱情保卫战</a></li>
+                        <li><span>3</span><a href="">最强综艺</a></li>
+                        <li><span>4</span><a href="">家庭幽默录像</a></li>
+                        <li><span>5</span><a href="">经典传奇</a></li>
+                        <li><span>6</span><a href="">来自星星的你事</a></li>
+                        <li><span>7</span><a href="">国学小名士</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-    <!-- 中间内容 -->
+        <!-- banner -->
 
-    <!-- 页脚 -->
+        <div class="banner mt40 clear">
+            <ul class="cf">
+                <li>
+                    <a href="http://v.pptv.com/show/aiaaLCXHXR4XoZs4.html?rcc_src=www_index" target="_play">
+                        <img src="http://sr2.pplive.cn/cms/42/31/54689d51cab9d074b65115f3189e0665.png" data-src2="http://sr2.pplive.cn/cms/42/31/54689d51cab9d074b65115f3189e0665.png"
+                            alt="孟非" class="people" style="display: block;">
+                        <img src="http://sr4.pplive.cn/cms/24/86/701e5fe103a0275f42787fe4cc74f06f.jpg.webp" data-src2="http://sr4.pplive.cn/cms/24/86/701e5fe103a0275f42787fe4cc74f06f.jpg.webp"
+                            alt="孟非" class="bg" style="display: block;">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://v.pptv.com/show/8XbbWRAicod9CwCg.html?rcc_src=www_index" target="_play">
+                        <img src="http://sr2.pplive.cn/cms/37/30/051a8192c5b541a2fcae0da42bb40bca.png" data-src2="http://sr2.pplive.cn/cms/37/30/051a8192c5b541a2fcae0da42bb40bca.png"
+                            alt="罗志祥" class="people" style="display: block;">
+                        <img src="http://sr3.pplive.cn/cms/32/01/d18ac0437fd0f5bcc88d14fe98b6d00a.png" data-src2="http://sr3.pplive.cn/cms/32/01/d18ac0437fd0f5bcc88d14fe98b6d00a.png"
+                            alt="罗志祥" class="bg" style="display: block;">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://v.pptv.com/show/Stib5N58FdbMWlPw.html?rcc_src=www_index" target="_play">
+                        <img src="http://sr2.pplive.cn/cms/32/15/5daa456f8e3ea045def989bedc5f8826.png" data-src2="http://sr2.pplive.cn/cms/32/15/5daa456f8e3ea045def989bedc5f8826.png"
+                            alt="黄渤" class="people" style="display: block;">
+                        <img src="http://sr1.pplive.cn/cms/57/68/57460900d95db1bd6bdc4eee2f1fbe34.jpg.webp" data-src2="http://sr1.pplive.cn/cms/57/68/57460900d95db1bd6bdc4eee2f1fbe34.jpg.webp"
+                            alt="黄渤" class="bg" style="display: block;">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://v.pptv.com/show/ffVe3ESqGlia7OaE.html?rcc_src=www_index" target="_play">
+                        <img src="http://sr4.pplive.cn/cms/17/93/b298ca0f594b0124489d7c9510d50792.png" data-src2="http://sr4.pplive.cn/cms/17/93/b298ca0f594b0124489d7c9510d50792.png"
+                            alt="涂磊" class="people" style="display: block;">
+                        <img src="http://sr3.pplive.cn/cms/27/54/5f28c595507a606b9a88c7a4c1e52a4e.jpg.webp" data-src2="http://sr3.pplive.cn/cms/27/54/5f28c595507a606b9a88c7a4c1e52a4e.jpg.webp"
+                            alt="涂磊" class="bg" style="display: block;">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://v.pptv.com/show/renGRKwSgsAjoQk.html?rcc_src=www_index" target="_play">
+                        <img src="http://sr1.pplive.cn/cms/23/78/c9cedf6af0d5c3ada56b7a03e5fe348a.png" data-src2="http://sr1.pplive.cn/cms/23/78/c9cedf6af0d5c3ada56b7a03e5fe348a.png"
+                            alt="李静" class="people" style="display: block;">
+                        <img src="http://sr2.pplive.cn/cms/13/08/fa4d5bbf8cf3271342e17d8481a77a60.jpg.webp" data-src2="http://sr2.pplive.cn/cms/13/08/fa4d5bbf8cf3271342e17d8481a77a60.jpg.webp"
+                            alt="李静" class="bg" style="display: block;">
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    <!-- 娱乐 -->
+    <div class="item mt40 clear">
+        <div class="left">
+            <div class="item-tit">
+                <h2 class="item-tit-b recr"><a href=''>娱乐</a></h2>
+                <div class="item-tit-tab">
+                    <a href="javasript:null">娱乐资讯</a>
+                    <i>/</i>
+                    <a href="javasript:null">最强八卦</a>
+                </div>
+                <div class="item-tit-right right">
+                    <a href="">金牌调解</a>·<a href="">非常完美</a>·<a href="">非你莫属</a>·<a href="">更多 &gt;</a>
+                </div>
+            </div>
+            <div class="item-at clear">
+                <div class="left plus-pic">
+                    <a href="">
+                        <img src="http://sr4.pplive.cn/cms/21/55/8f3efc554780101519e9c3060f33cf07.jpg">
+                        <dl>
+                            <dt>女人我最大</dt>
+                            <dd>未脱单的几大奇葩理由</dd>
+                        </dl>
+                    </a>
+                </div>
+                <div class="left two-row-long">
+                    <ul class="group-pic">
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>       
+                    </ul>
+                    <ul class="group-pic">
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <p class="picbox"><img src="http://img2.plures.net/f59df534-d23b-40e9-ac41-c7ebbbab9fcd"
+                                        alt=""></p>
+                                <div class="item-info">
+                                    <dl>
+                                        <dt>双胞胎落泪争夺母爱</dt>
+                                        <dd>金牌调解</dd>
+                                    </dl>
+                                </div>
+                            </a>
+                        </li>       
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    </div>
+
+<script src="js/js.js"></script>
 </body>
+
 </html>

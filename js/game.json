@@ -1,0 +1,432 @@
+{
+    "apiVersion": "1.0",
+    "lastupdate": 1537620025,
+    "data": {
+        "totalItems": 79,
+        "offset": 0,
+        "limit": 10,
+        "sort": "views",
+        "items": [
+            {
+                "preview": "http://img2.plures.net/live/screenshots/919699/0be9/84c7/c3bb/d164/4531/3370/e306/6095_1537619964.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/919699/0be9/84c7/c3bb/d164/4531/3370/e306/6095_1537619964.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 103,
+                        "id": 103,
+                        "Name": "王者荣耀",
+                        "name": "王者荣耀",
+                        "tag": "wzry"
+                    }
+                ],
+                "channel": {
+                    "id": 919699,
+                    "name": "秀一",
+                    "avatar": "http://img2.plures.net/users/avatar/041/465/380/41465380/1dd369d7eeec07238bb8773a8b7ad9c3.jpg",
+                    "grade": 17,
+                    "url": "http://live.pptv.com/room/147380?from=pptv",
+                    "h5": "http://live.pptv.com/room/147380?from=pptv",
+                    "status": "赛季倒数,还没王者的老铁速度滴滴了",
+                    "broadcast_begin": 1537598741000,
+                    "broadcast_duration": 21260,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "147380",
+                    "flowers": 1543672,
+                    "followers": 113210,
+                    "glamours": 14323404,
+                    "tag": "国服最强达摩",
+                    "vid": 0,
+                    "weight": 112213620,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "111514"
+            },
+            {
+                "preview": "http://img2.plures.net/eb99/51f3/318d/cb8e/f706/1ddc/720d/7cbc.jpg",
+                "preview2": "http://img2.plures.net/live/screenshots/456584/d985/7524/d783/1529/2f0c/d54f/feb7/3d94_1537619938.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": false,
+                "game": [
+                    {
+                        "Id": 120,
+                        "id": 120,
+                        "Name": "穿越火线手游",
+                        "name": "穿越火线手游",
+                        "tag": "cfmobile"
+                    }
+                ],
+                "channel": {
+                    "id": 456584,
+                    "name": "CFM官方直播间",
+                    "avatar": "http://q.qlogo.cn/qqapp/100360418/697935DE06F82A8D9A08B7DC8ACAFECC/100",
+                    "grade": 17,
+                    "url": "http://live.pptv.com/room/cfm?from=pptv",
+                    "h5": "http://live.pptv.com/room/cfm?from=pptv",
+                    "status": "CFML-S5职业联赛 秋季赛",
+                    "broadcast_begin": 1532056268000,
+                    "broadcast_duration": 5563733,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "cfm",
+                    "flowers": 180845,
+                    "followers": 138917,
+                    "glamours": 4075123,
+                    "tag": "CF手游官方房间",
+                    "vid": 0,
+                    "weight": 6829,
+                    "live_source": 8,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "84056"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2222133/882c/51b8/bce4/3517/39fa/44bb/4def/f7b5_1537619803.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2222133/882c/51b8/bce4/3517/39fa/44bb/4def/f7b5_1537619803.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 300,
+                        "id": 300,
+                        "Name": "刺激战场",
+                        "name": "刺激战场",
+                        "tag": "cjzc"
+                    }
+                ],
+                "channel": {
+                    "id": 2222133,
+                    "name": "LR丶阿柚冠名阿钰宝贝",
+                    "avatar": "http://pic.plures.net/9nop/qvw7/109a4165d6fc2b27a73866f9994d640e.jpg",
+                    "grade": 14,
+                    "url": "http://live.pptv.com/room/v124910?from=pptv",
+                    "h5": "http://live.pptv.com/room/v124910?from=pptv",
+                    "status": "考虑占个榜么",
+                    "broadcast_begin": 1537618663000,
+                    "broadcast_duration": 1338,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "v124910",
+                    "flowers": 4281,
+                    "followers": 785,
+                    "glamours": 3827176,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 128,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "66056"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2264041/4aeb/b85c/49b6/8d71/2bda/9927/15b9/88f4_1537619763.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2264041/4aeb/b85c/49b6/8d71/2bda/9927/15b9/88f4_1537619763.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 300,
+                        "id": 300,
+                        "Name": "刺激战场",
+                        "name": "刺激战场",
+                        "tag": "cjzc"
+                    }
+                ],
+                "channel": {
+                    "id": 2264041,
+                    "name": "龙珠TV诗萌兔",
+                    "avatar": "http://pic.plures.net/rfhl/fpab/f27b0bd2c52cedceec94aa333c97352e.jpg",
+                    "grade": 13,
+                    "url": "http://live.pptv.com/room/2610067?from=pptv",
+                    "h5": "http://live.pptv.com/room/2610067?from=pptv",
+                    "status": "认识就够了，余生就算了",
+                    "broadcast_begin": 1537614609000,
+                    "broadcast_duration": 5392,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2610067",
+                    "flowers": 14195,
+                    "followers": 10774,
+                    "glamours": 2534583,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "61373"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2366442/daa3/927d/1cb0/930c/7ea4/3374/5818/5199_1537619857.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2366442/daa3/927d/1cb0/930c/7ea4/3374/5818/5199_1537619857.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 300,
+                        "id": 300,
+                        "Name": "刺激战场",
+                        "name": "刺激战场",
+                        "tag": "cjzc"
+                    }
+                ],
+                "channel": {
+                    "id": 2366442,
+                    "name": "唐唐唐唐Y",
+                    "avatar": "http://image.suning.cn//uimg/cmf/cust_headpic/34a462df45776defc3bcbd1c25223290_00_60x60.jpg?v=sysHeadPicNum",
+                    "grade": 7,
+                    "url": "http://live.pptv.com/room/m198343?from=pptv",
+                    "h5": "http://live.pptv.com/room/m198343?from=pptv",
+                    "status": "小哥赶快来吃鸡",
+                    "broadcast_begin": 1537617836000,
+                    "broadcast_duration": 2165,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "m198343",
+                    "flowers": 501,
+                    "followers": 47,
+                    "glamours": 52949,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "60016"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2355156/48b8/387f/424b/7cd8/2b47/279b/dc93/5b54_1537619805.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2355156/48b8/387f/424b/7cd8/2b47/279b/dc93/5b54_1537619805.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 298,
+                        "id": 298,
+                        "Name": "全军出击",
+                        "name": "全军出击",
+                        "tag": "qjcj"
+                    }
+                ],
+                "channel": {
+                    "id": 2355156,
+                    "name": "是你的阿曦吖",
+                    "avatar": "http://pic.plures.net/vpgn/ksaq/23ad61379871d000b9286794fdbc5c0e.jpg",
+                    "grade": 11,
+                    "url": "http://live.pptv.com/room/2638923?from=pptv",
+                    "h5": "http://live.pptv.com/room/2638923?from=pptv",
+                    "status": "emmmm....",
+                    "broadcast_begin": 1537615942000,
+                    "broadcast_duration": 4059,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2638923",
+                    "flowers": 10797,
+                    "followers": 2192,
+                    "glamours": 895853,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "50003"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2310549/4c28/2197/f0c7/cc7f/8050/c8fe/5194/69af_1537619921.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2310549/4c28/2197/f0c7/cc7f/8050/c8fe/5194/69af_1537619921.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 300,
+                        "id": 300,
+                        "Name": "刺激战场",
+                        "name": "刺激战场",
+                        "tag": "cjzc"
+                    }
+                ],
+                "channel": {
+                    "id": 2310549,
+                    "name": "龙珠Tv-微笑",
+                    "avatar": "http://pic.plures.net/sk3a/pxtg/24a39b6d8aa06ee3ef347b7a5807dd93.jpg",
+                    "grade": 13,
+                    "url": "http://live.pptv.com/room/2601334?from=pptv",
+                    "h5": "http://live.pptv.com/room/2601334?from=pptv",
+                    "status": "双排冲分中！",
+                    "broadcast_begin": 1537612470000,
+                    "broadcast_duration": 7531,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2601334",
+                    "flowers": 30633,
+                    "followers": 8749,
+                    "glamours": 1926844,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 16,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "48380"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2283880/b053/ce3c/070c/d8f0/8afd/36bd/5fe3/86df_1537619848.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2283880/b053/ce3c/070c/d8f0/8afd/36bd/5fe3/86df_1537619848.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 300,
+                        "id": 300,
+                        "Name": "刺激战场",
+                        "name": "刺激战场",
+                        "tag": "cjzc"
+                    }
+                ],
+                "channel": {
+                    "id": 2283880,
+                    "name": "彦666",
+                    "avatar": "http://pic.plures.net/txqj/kehm/8d13d901a0416665971720e5ba458e59.jpg",
+                    "grade": 10,
+                    "url": "http://live.pptv.com/room/2579100?from=pptv",
+                    "h5": "http://live.pptv.com/room/2579100?from=pptv",
+                    "status": "二指禅 纯手搓 带水友",
+                    "broadcast_begin": 1537610098000,
+                    "broadcast_duration": 9903,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2579100",
+                    "flowers": 5526,
+                    "followers": 32472,
+                    "glamours": 379344,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 128,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "46585"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2363191/3519/b514/8ea4/05e8/8f70/e8b5/e8fc/f68c_1537619933.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2363191/3519/b514/8ea4/05e8/8f70/e8b5/e8fc/f68c_1537619933.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 302,
+                        "id": 302,
+                        "Name": "第五人格",
+                        "name": "第五人格",
+                        "tag": "dwrg"
+                    }
+                ],
+                "channel": {
+                    "id": 2363191,
+                    "name": "暖男不受控丶",
+                    "avatar": "http://pic.plures.net/pyfv/uifw/be96ea52616534098181ad7f575d8fc4.jpg",
+                    "grade": 10,
+                    "url": "http://live.pptv.com/room/2645144?from=pptv",
+                    "h5": "http://live.pptv.com/room/2645144?from=pptv",
+                    "status": " 站着，别动！",
+                    "broadcast_begin": 1537613956000,
+                    "broadcast_duration": 6045,
+                    "videos": 0,
+                    "_type": 1,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "2645144",
+                    "flowers": 11963,
+                    "followers": 446,
+                    "glamours": 823870,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 0,
+                    "live_source": 128,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "37684"
+            },
+            {
+                "preview": "http://img2.plures.net/live/screenshots/2124844/a3ba/b200/5c91/1375/4627/cd7e/203b/2c0c_1537583055.jpg?imageView2/1/w/320/h/180",
+                "preview2": "http://img2.plures.net/live/screenshots/2124844/a3ba/b200/5c91/1375/4627/cd7e/203b/2c0c_1537583055.jpg?imageView2/1/w/500/h/500",
+                "preview_auto": true,
+                "game": [
+                    {
+                        "Id": 103,
+                        "id": 103,
+                        "Name": "王者荣耀",
+                        "name": "王者荣耀",
+                        "tag": "wzry"
+                    }
+                ],
+                "channel": {
+                    "id": 2124844,
+                    "name": "十年-秀才",
+                    "avatar": "http://pic.plures.net/xqel/nqrw/349f4e3dbeabe176ef3f324811c24a10.jpg",
+                    "grade": 13,
+                    "url": "http://live.pptv.com/room/v179573?from=pptv",
+                    "h5": "http://live.pptv.com/room/v179573?from=pptv",
+                    "status": "赛季末300王者极速上号",
+                    "broadcast_begin": 1537576837000,
+                    "broadcast_duration": 43164,
+                    "videos": 0,
+                    "_type": 9,
+                    "_subtype": 0,
+                    "belle": 0,
+                    "domain": "v179573",
+                    "flowers": 4358,
+                    "followers": 23853,
+                    "glamours": 1766376,
+                    "tag": "",
+                    "vid": 0,
+                    "weight": 100055636,
+                    "live_source": 128,
+                    "stream_types": 9,
+                    "is_broadcast": true,
+                    "lockable": false,
+                    "fee": 0
+                },
+                "viewers": "36427"
+            }
+        ]
+    }
+}
