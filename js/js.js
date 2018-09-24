@@ -45,7 +45,6 @@ function hovers(tabBox, pushCont, list, tab1, url) {
     }
     xhr.send();
 
-
     function firstlod(data) { // 第一个要显示的
         console.log(data);
         let str = ``,
