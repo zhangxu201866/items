@@ -68,7 +68,6 @@ document.addEventListener('click',function(ess){
 
 
 // 头部 右侧
-
 function showdiv(obj,showDiv){
     let hDiv = document.getElementById(obj),
     showDivs = document.getElementById(showDiv);

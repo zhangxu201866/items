@@ -48,7 +48,7 @@ function hovers(tabBox, pushCont, list, tab1, url) {
     function firstlod(data) { // 第一个要显示的
         console.log(data);
         let str = ``,
-            strplsh = '';
+            strplsh = ``;
         strplsh += `<a href="${data.items[0].channel.url}"><dl><dt><img src="${data.items[0].channel.avatar}"><p>${data.items[0].channel.name}</p></dt><dd><p>${data.items[0].channel.status}</p><span class="view">${(data.items[0].viewers/10000).toFixed(2)}万</span></dd></dl></a>`;
         for (let i = 1; i < 6; i++) {
             let cur = data.items[i];
@@ -78,7 +78,7 @@ function hovers(tabBox, pushCont, list, tab1, url) {
             if (T == tab1) {
                 // quest.then((data) => {
                 let str = ``,
-                    strplsh = '';
+                    strplsh = ``;
                 strplsh += `<a href="${data.items[6].channel.url}"><dl><dt><img src="${data.items[6].channel.avatar}"><p>${data.items[6].channel.name}</p></dt><dd><p>${data.items[6].channel.status}</p><span class="view">${(data.items[6].viewers/10000).toFixed(2)}万</span></dd></dl></a>`;
                 for (let i = 5; i < 10; i++) {
                     let cur = data.items[i];
