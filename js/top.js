@@ -1,5 +1,25 @@
+//预加载
+function preload(imgs){ 
+    let len = imgs.length;
+    for(let i = 0; i < len; i++){
+      let _slefImg = imgs[i];
+        let imgUrl = _slefImg.getAttribute('data-src'),
+         newImg = new Image();
+         newImg.src = imgUrl;
+         console.log(imgUrl);
+         
+         newImg.onload = function(){
+             _slefImg.src = this.src;
+
+         }
+
+    }
+}
+
+
 //焦点图部分
 let innerbanner = document.getElementById('innerbanner'),
+    imgsB = innerbanner.getElementsByTagName('img'),
     titleB = document.getElementById('Btitle'),
     timer = null,
     step =0;
@@ -18,13 +38,18 @@ function bannerHtm(dataB){
         titStr = ``;
     for(let i =0; i < dataB.length; i++){
         let {img, stitle,title} = dataB[i];
-        picStr += `<li><img src="${img}"></li>`;
+        picStr += `<li><img data-src="${img}"></li>`;
         titStr += `<li><a href=''><span class='btit'>${title}</span><span>${stitle}</span></a></li>`
     }
     innerbanner.innerHTML = picStr;
     titleB.innerHTML = titStr;
 }
 bannerHtm(dataB);
+
+window.onload = preload(imgsB);
+
+console.log(imgsB);
+
 
 timer = setInterval(autoMove, 3000);
 $("#Btitle li").eq(0).addClass('active');

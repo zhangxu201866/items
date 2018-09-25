@@ -546,8 +546,10 @@ header .main {
   bottom: 3px;
 }
 .group-pic li .picbox img {
-  width: 100%;
-  height: 100%;
+  width: 180px;
+  height: 100px;
+  background: url('../img/imgbg.png') no-repeat center top #eee;
+  display: block;
 }
 .group-pic :hover {
   opacity: 0.9;
