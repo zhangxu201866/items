@@ -43,7 +43,7 @@ function g() { //秀场直播
         imgs = listHtml.getElementsByTagName('img'),
         child = tabBox1.childNodes;
     for (let i = 0; i < _slef.length; i++) {
-        hovers('js/data.json', pushHtml, listHtml);// 默认显示第一个
+        hovers('js/luodata.json', pushHtml, listHtml);// 默认显示第一个
         _slef[0].classList.add('active');
         // preload(imgs);//预加载
         preload(pushImg);
@@ -57,7 +57,7 @@ function g() { //秀场直播
                 }
             }
                 if (_slef[i].title == '女神') {
-                    hovers('js/data.json', pushHtml, listHtml);
+                    hovers('js/luodata.json', pushHtml, listHtml);
                     preload(pushImg);
                     preload(imgs);
                 } else if (_slef[i].title == '随拍') {
@@ -98,7 +98,7 @@ function g1() { //电竞直播
                     preload(imgs);
                 } else if (_slef[i].title == '热门手游') {
                     console.log(this);
-                    hovers('js/data.json', pushHtml, listHtml);
+                    hovers('js/luodata.json', pushHtml, listHtml);
                     preload(pushImg);
                     preload(imgs);
                 };
@@ -160,7 +160,7 @@ function zongyilod() { //综艺
                     preload(pushImg);
                     preload(imgs);
                 } else if (_slef3[i].title == '大陆综艺') {
-                    hovers2('js/data.json', pushHtml1, listHtml1);
+                    hovers2('js/luodata.json', pushHtml1, listHtml1);
                     preload(pushImg);
                     preload(imgs);
                 }else if (_slef3[i].title == '台湾综艺') {
@@ -210,7 +210,7 @@ function yulelod() { //<!-- 娱乐 -->
         _slef3[0].classList.add('active');//默认鼠标鼠标效果
         preload(pushImg);
         preload(imgs);
-        console.log(imgs);
+        // console.log(imgs);
         
         _slef3[i].onmouseenter = function (e) { // 鼠标放上去再次加载
             
@@ -227,7 +227,7 @@ function yulelod() { //<!-- 娱乐 -->
                     preload(pushImg);
                     preload(imgs);
                 } else if (_slef3[i].title == '最强八卦') {
-                    hovers3('js/data.json', pushHtml1, listHtml1);
+                    hovers3('js/luodata.json', pushHtml1, listHtml1);
                     preload(pushImg);
                     preload(imgs);
                 }
